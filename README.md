@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zamir</h1>
 <h3 align="center">A Frontend developer from Azerbaijan</h3>
-<img  src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" align="right" width="400"  >
+<img  src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" align="right" width="300"  >
 # 💫 About Me:
 💬 Ask me about React, JavaScript<br><br>📫 How to reach me zamirquliyev7@gmail.com
 
